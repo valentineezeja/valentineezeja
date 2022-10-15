@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
-- 🌱 I’m currently learning **Python and Bash scripting, IaC with AWS CFN & Terraform, Docker Kubernetes & JavaScript**
-
-- 👯 I’m looking to collaborate on [This and some open source, with time](https://github.com/itsmostafa/certified-aws-developer-associate-notes)
+- 🌱 I’m currently learning **Python and Bash scripting, IaC with AWS CFN & Terraform, Docker & JavaScript**
 
 - 💬 Ask me about **Cloud Infrastructure deployment & administration**
 
