@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentine</h1>
+<h1 align="center">Hi, I'm Valentine</h1>
 <h3 align="center">A budding DevOps Engineer living in London 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentineezeja&label=Profile%20views&color=0e75b6&style=flat" alt="valentineezeja" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
-- 🌱 I’m currently learning **Python and Bash scripting, IaC with AWS CFN & Terraform, Docker & JavaScript**
+- 🌱 I’m currently learning **Python and Bash scripting, IaC with AWS CFN & Terraform, Docker & K8s**
 
 - 💬 Ask me about **Cloud Infrastructure deployment & administration**
 
