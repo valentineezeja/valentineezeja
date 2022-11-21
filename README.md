@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [AWS CDK](https://github.com/aws/aws-cdk)
 
-- 👨‍💻 All of my projects are available at [resume.valentineezeja.com/projects](resume.valentineezeja.com/projects)
+- 👨‍💻 All of my projects are available at [resume.valentineezeja.com/projects](https://resume.valentineezeja.com/projects)
 
 - 📝 I regularly write articles on [valentineezeja.com](valentineezeja.com)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **valentineezeja@gmail.com**
 
-- 📄 Know about my experiences [resume.valentineezeja.com](resume.valentineezeja.com)
+- 📄 Know about my experiences [resume.valentineezeja.com](https://resume.valentineezeja.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
