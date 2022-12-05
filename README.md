@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [AWS Developer Associate Labs](https://github.com/valentineezeja/aws-dev-associate)
 
-- 🌱 I’m currently learning **Bash scripting; IaC with CloudFormation, AWS CDK & Terraform; Docker & K8; HTML/CSS/JavaScript**
+- 🌱 I’m currently learning **Bash scripting; IaC with CloudFormation, AWS CDK & Terraform; Docker & K8s; HTML/CSS/JavaScript**
 
 - 👯 I’m looking to collaborate on [AWS CDK](https://github.com/aws/aws-cdk)
 
 - 👨‍💻 All of my projects are available at [resume.valentineezeja.com/projects](https://resume.valentineezeja.com/projects)
 
-- 📝 I regularly write articles on [valentineezeja.com](valentineezeja.com)
+- 📝 I regularly write articles on [Valscloud.co.uk](valscloud.co.uk)
 
 - 💬 Ask me about **Cloud Infrastructure deployment & administration**
 
