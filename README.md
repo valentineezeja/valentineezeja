@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Valentine</h1>
-<h3 align="center">A Cloud Infrastructure Engineer living in London 🇬🇧</h3>
+<h3 align="center">A London-based Cloud Infrastructure Engineer 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentineezeja&label=Profile%20views&color=0e75b6&style=flat" alt="valentineezeja" /> </p>
 
