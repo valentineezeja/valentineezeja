@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentineezeja&label=Profile%20views&color=0e75b6&style=flat" alt="valentineezeja" /> </p>
 
-- 🔭 I’m currently working on [AWS Developer Associate Labs](https://github.com/valentineezeja/aws-dev-associate)
+- 🔭 I’m currently working on [Terraform Projects](https://github.com/hashicorp/terraform)
 
-- 🌱 I’m currently learning **Bash scripting; IaC with CloudFormation, AWS CDK & Terraform; Docker & K8s; HTML/CSS/JavaScript**
+- 🌱 I’m currently learning **Bash scripting; IaC with Terraform;Containerization technologies - Docker & K8s; HTML/CSS/JavaScript & automation with Python**
 
 - 👯 I’m looking to collaborate on [AWS CDK](https://github.com/aws/aws-cdk)
 
 - 👨‍💻 All of my projects are available at [resume.valentineezeja.com/projects](https://resume.valentineezeja.com/projects)
 
-- 📝 I regularly write articles on [Valscloud.co.uk](valscloud.co.uk)
+- 📝 I regularly write articles on [valscloud.co.uk](valscloud.co.uk)
 
 - 💬 Ask me about **Cloud Infrastructure deployment & administration**
 
