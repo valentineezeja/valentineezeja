@@ -5,22 +5,20 @@
 
 - 🔭 I’m currently working on [Terraform Projects](https://github.com/hashicorp/terraform)
 
-- 🌱 I’m currently learning **Bash scripting; IaC with Terraform;Containerization technologies - Docker & K8s; HTML/CSS/JavaScript & automation with Python**
-
-- 👯 I’m looking to collaborate on [AWS CDK](https://github.com/aws/aws-cdk)
+- 🌱 I’m currently learning **Bash scripting; IaC with Terraform; Containerization technologies - Docker & K8s; JavaScript & automation with Python**
 
 - 👨‍💻 All of my projects are available at [resume.valentineezeja.com/projects](https://resume.valentineezeja.com/projects)
 
 - 📝 I regularly write articles on [valscloud.co.uk](valscloud.co.uk)
 
-- 💬 Ask me about **Cloud Infrastructure deployment & development**
+- 💬 Ask me about **Cloud Infrastructure & CloudOps - AWS & Azure**
 
-- 📄 Know about my experiences [resume.valentineezeja.com](https://resume.valentineezeja.com)
+- 📄 Know about my experiences: [resume.valentineezeja.com](https://resume.valentineezeja.com)
 
 **How to reach me:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentine%20Ezeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentineezeja)](https://www.linkedin.com/in/valentineezeja/)
-[![Gmail Badge](https://img.shields.io/badge/-valentineezeja@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valentineezeja@gmail.com)](mailto:valentineezeja@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Reach%20out%20via%20Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valentineezeja@gmail.com)](mailto:valentineezeja@gmail.com)
 
 **Languages and Tools:**
 
@@ -35,6 +33,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Top Language stats:**
 
