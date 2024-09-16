@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Bash scripting; IaC with Terraform; Containerization technologies - Docker & K8s; JavaScript & automation with Python**
 
-- 📝 I regularly write articles on [valscloud.co.uk](valscloud.co.uk)
-
 - 💬 Ask me about **Cloud Infrastructure & CloudOps - AWS & Azure**
-
-- 📄 Know about my experiences: [resume.valentineezeja.com](https://resume.valentineezeja.com)
 
 **How to reach me:**
 
