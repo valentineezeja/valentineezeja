@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentineezeja&label=Profile%20views&color=0e75b6&style=flat" alt="valentineezeja" /> </p>
 
-- 🔭 I’m currently working on [Terraform Projects](https://github.com/hashicorp/terraform)
+- 🌱 I’m currently working with the following tech: **Bash scripting; IaC with Terraform; Containerization technologies - Docker & K8s; AWS SAM; MERN stack; JavaScript & automation with Python**
 
-- 🌱 I’m currently learning **Bash scripting; IaC with Terraform; Containerization technologies - Docker & K8s; JavaScript & automation with Python**
-
-- 💬 Ask me about **Cloud Infrastructure & CloudOps - AWS & Azure**
+- 💬 Ask me about **Cloud Infrastructure & DevOps - AWS & Azure**
 
 **How to reach me:**
 
